@@ -1,4 +1,4 @@
-const vocabBuilder = require('../controllers/vocabController');
+const vocabBuilder = require('../controllers/VocabController');
 
 const VocabRoute = (app) => {
     // Declare API endpoints here (URL)
